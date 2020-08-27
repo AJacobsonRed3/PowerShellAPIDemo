@@ -1,0 +1,568 @@
+{
+    "from": "2020-03-01T00:00",
+    "to": "2020-03-07T00:00",
+    "workSummaries": [{
+            "id": 283950187,
+            "empId": 14743,
+            "workDate": "2020-03-01T00:00",
+            "wrkMins": 615,
+            "authorized": true,
+            "overtime": true,
+            "absent": null,
+            "absentTimeCode": null,
+            "authorizedMessage": "Authorized by ADAM JACOBSON on 03/05/2020 08:29.",
+            "comments": null,
+            "clocks": {
+                "workSummaryId": 283950187,
+                "clocks": [{
+                        "index": 0,
+                        "type": {
+                            "id": 1,
+                            "name": "ON",
+                            "locName": "ON"
+                        },
+                        "time": "2020-03-01T23:00",
+                        "data": null,
+                        "location": null,
+                        "extData": "Dtz=US/Eastern&Dst=F&TZ=0"
+                    }, {
+                        "index": 1,
+                        "type": {
+                            "id": 2,
+                            "name": "OFF",
+                            "locName": "OFF"
+                        },
+                        "time": "2020-03-02T09:15",
+                        "data": null,
+                        "location": null,
+                        "extData": "Dtz=US/Eastern&Dst=F&punchesApproved=true&TZ=0"
+                    }
+                ]
+            },
+            "workDetails": [{
+                    "id": 3081033,
+                    "workSummaryId": 283950187,
+                    "startTime": "2020-03-01T00:00",
+                    "endTime": "2020-03-01T23:00",
+                    "minutes": 1380,
+                    "rate": 0.0,
+                    "timecode": {
+                        "name": "UAT",
+                        "locName": "UAT"
+                    },
+                    "hourType": {
+                        "name": "UNPAID",
+                        "locName": "UNPAID"
+                    },
+                    "job": {
+                        "name": "370725",
+                        "locName": "370725",
+                        "locDesc": "HUDSON UNIVERSITY"
+                    },
+                    "department": {
+                        "name": "370725",
+                        "locName": "370725"
+                    },
+                    "project": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "docket": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "team": {
+                        "id": 11050,
+                        "name": "JACOBSON ADAM 034753",
+                        "locName": "JACOBSON ADAM 034753",
+                        "locDesc": "JACOBSON ADAM 034753 TEAM",
+                        "supervisor": null,
+                        "supervisors": null
+                    },
+                    "workType": "D"
+                }, {
+                    "id": 3538002,
+                    "workSummaryId": 283950187,
+                    "startTime": "2020-03-01T23:00",
+                    "endTime": "2020-03-02T06:15",
+                    "minutes": 435,
+                    "rate": 16.98,
+                    "timecode": {
+                        "name": "WRK",
+                        "locName": "WRK"
+                    },
+                    "hourType": {
+                        "name": "REG",
+                        "locName": "REG"
+                    },
+                    "job": {
+                        "name": "370725",
+                        "locName": "370725",
+                        "locDesc": "HUDSON UNIVERSITY"
+                    },
+                    "department": {
+                        "name": "370725",
+                        "locName": "370725"
+                    },
+                    "project": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "docket": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "team": {
+                        "id": 11050,
+                        "name": "JACOBSON ADAM 034753",
+                        "locName": "JACOBSON ADAM 034753",
+                        "locDesc": "JACOBSON ADAM 034753 TEAM",
+                        "supervisor": null,
+                        "supervisors": null
+                    },
+                    "workType": "D"
+                }, {
+                    "id": 3538003,
+                    "workSummaryId": 283950187,
+                    "startTime": "2020-03-02T06:15",
+                    "endTime": "2020-03-02T09:15",
+                    "minutes": 180,
+                    "rate": 25.47,
+                    "timecode": {
+                        "name": "WRK",
+                        "locName": "WRK"
+                    },
+                    "hourType": {
+                        "name": "OT",
+                        "locName": "OT"
+                    },
+                    "job": {
+                        "name": "370725",
+                        "locName": "370725",
+                        "locDesc": "HUDSON UNIVERSITY"
+                    },
+                    "department": {
+                        "name": "370725",
+                        "locName": "370725"
+                    },
+                    "project": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "docket": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "team": {
+                        "id": 11050,
+                        "name": "JACOBSON ADAM 034753",
+                        "locName": "JACOBSON ADAM 034753",
+                        "locDesc": "JACOBSON ADAM 034753 TEAM",
+                        "supervisor": null,
+                        "supervisors": null
+                    },
+                    "workType": "D"
+                }
+            ],
+            "exceptions": null,
+            "wrksMessages": null,
+            "readOnly": false,
+            "readOnlyReason": "",
+            "daily": true
+        }, {
+            "id": 284369062,
+            "empId": 14743,
+            "workDate": "2020-03-02T00:00",
+            "wrkMins": 615,
+            "authorized": true,
+            "overtime": null,
+            "absent": null,
+            "absentTimeCode": null,
+            "authorizedMessage": "Authorized by ADAM JACOBSON on 03/05/2020 08:29.",
+            "comments": null,
+            "clocks": {
+                "workSummaryId": 284369062,
+                "clocks": [{
+                        "index": 0,
+                        "type": {
+                            "id": 1,
+                            "name": "ON",
+                            "locName": "ON"
+                        },
+                        "time": "2020-03-02T23:30",
+                        "data": null,
+                        "location": null,
+                        "extData": "Dtz=US/Eastern&Dst=F&TZ=0"
+                    }, {
+                        "index": 1,
+                        "type": {
+                            "id": 2,
+                            "name": "OFF",
+                            "locName": "OFF"
+                        },
+                        "time": "2020-03-03T09:45",
+                        "data": null,
+                        "location": null,
+                        "extData": "Dtz=US/Eastern&Dst=F&punchesApproved=true&TZ=0"
+                    }
+                ]
+            },
+            "workDetails": [{
+                    "id": 3082143,
+                    "workSummaryId": 284369062,
+                    "startTime": "2020-03-02T00:00",
+                    "endTime": "2020-03-02T23:30",
+                    "minutes": 1410,
+                    "rate": 0.0,
+                    "timecode": {
+                        "name": "UAT",
+                        "locName": "UAT"
+                    },
+                    "hourType": {
+                        "name": "UNPAID",
+                        "locName": "UNPAID"
+                    },
+                    "job": {
+                        "name": "370725",
+                        "locName": "370725",
+                        "locDesc": "HUDSON UNIVERSITY"
+                    },
+                    "department": {
+                        "name": "370725",
+                        "locName": "370725"
+                    },
+                    "project": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "docket": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "team": {
+                        "id": 11050,
+                        "name": "JACOBSON ADAM 034753",
+                        "locName": "JACOBSON ADAM 034753",
+                        "locDesc": "JACOBSON ADAM 034753 TEAM",
+                        "supervisor": null,
+                        "supervisors": null
+                    },
+                    "workType": "D"
+                }, {
+                    "id": 3539759,
+                    "workSummaryId": 284369062,
+                    "startTime": "2020-03-02T23:30",
+                    "endTime": "2020-03-03T09:45",
+                    "minutes": 615,
+                    "rate": 16.98,
+                    "timecode": {
+                        "name": "WRK",
+                        "locName": "WRK"
+                    },
+                    "hourType": {
+                        "name": "REG",
+                        "locName": "REG"
+                    },
+                    "job": {
+                        "name": "370725",
+                        "locName": "370725",
+                        "locDesc": "HUDSON UNIVERSITY"
+                    },
+                    "department": {
+                        "name": "370725",
+                        "locName": "370725"
+                    },
+                    "project": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "docket": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "team": {
+                        "id": 11050,
+                        "name": "JACOBSON ADAM 034753",
+                        "locName": "JACOBSON ADAM 034753",
+                        "locDesc": "JACOBSON ADAM 034753 TEAM",
+                        "supervisor": null,
+                        "supervisors": null
+                    },
+                    "workType": "D"
+                }
+            ],
+            "exceptions": null,
+            "wrksMessages": null,
+            "readOnly": false,
+            "readOnlyReason": "",
+            "daily": true
+        }, {
+            "id": 284794180,
+            "empId": 14743,
+            "workDate": "2020-03-03T00:00",
+            "wrkMins": 600,
+            "authorized": true,
+            "overtime": null,
+            "absent": null,
+            "absentTimeCode": null,
+            "authorizedMessage": "Authorized by ADAM JACOBSON on 03/05/2020 08:29.",
+            "comments": null,
+            "clocks": {
+                "workSummaryId": 284794180,
+                "clocks": [{
+                        "index": 0,
+                        "type": {
+                            "id": 1,
+                            "name": "ON",
+                            "locName": "ON"
+                        },
+                        "time": "2020-03-03T00:00",
+                        "data": null,
+                        "location": null,
+                        "extData": null
+                    }, {
+                        "index": 1,
+                        "type": {
+                            "id": 2,
+                            "name": "OFF",
+                            "locName": "OFF"
+                        },
+                        "time": "2020-03-03T10:00",
+                        "data": null,
+                        "location": null,
+                        "extData": null
+                    }
+                ]
+            },
+            "workDetails": [{
+                    "id": 3084375,
+                    "workSummaryId": 284794180,
+                    "startTime": "2020-03-03T00:00",
+                    "endTime": "2020-03-03T10:00",
+                    "minutes": 600,
+                    "rate": 16.98,
+                    "timecode": {
+                        "name": "WRK",
+                        "locName": "WRK"
+                    },
+                    "hourType": {
+                        "name": "REG",
+                        "locName": "REG"
+                    },
+                    "job": {
+                        "name": "370725",
+                        "locName": "370725",
+                        "locDesc": "HUDSON UNIVERSITY"
+                    },
+                    "department": {
+                        "name": "370725",
+                        "locName": "370725"
+                    },
+                    "project": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "docket": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "team": {
+                        "id": 11050,
+                        "name": "JACOBSON ADAM 034753",
+                        "locName": "JACOBSON ADAM 034753",
+                        "locDesc": "JACOBSON ADAM 034753 TEAM",
+                        "supervisor": null,
+                        "supervisors": null
+                    },
+                    "workType": "D"
+                }
+            ],
+            "exceptions": null,
+            "wrksMessages": null,
+            "readOnly": false,
+            "readOnlyReason": "",
+            "daily": true
+        }, {
+            "id": 285217944,
+            "empId": 14743,
+            "workDate": "2020-03-04T00:00",
+            "wrkMins": 600,
+            "authorized": true,
+            "overtime": null,
+            "absent": null,
+            "absentTimeCode": null,
+            "authorizedMessage": "Authorized by ADAM JACOBSON on 03/09/2020 10:55.",
+            "comments": null,
+            "clocks": {
+                "workSummaryId": 285217944,
+                "clocks": [{
+                        "index": 0,
+                        "type": {
+                            "id": 1,
+                            "name": "ON",
+                            "locName": "ON"
+                        },
+                        "time": "2020-03-04T23:00",
+                        "data": null,
+                        "location": null,
+                        "extData": null
+                    }, {
+                        "index": 1,
+                        "type": {
+                            "id": 2,
+                            "name": "OFF",
+                            "locName": "OFF"
+                        },
+                        "time": "2020-03-05T09:00",
+                        "data": null,
+                        "location": null,
+                        "extData": null
+                    }
+                ]
+            },
+            "workDetails": [{
+                    "id": 3087466,
+                    "workSummaryId": 285217944,
+                    "startTime": "2020-03-04T00:00",
+                    "endTime": "2020-03-04T23:00",
+                    "minutes": 1380,
+                    "rate": 0.0,
+                    "timecode": {
+                        "name": "UAT",
+                        "locName": "UAT"
+                    },
+                    "hourType": {
+                        "name": "UNPAID",
+                        "locName": "UNPAID"
+                    },
+                    "job": {
+                        "name": "370725",
+                        "locName": "370725",
+                        "locDesc": "HUDSON UNIVERSITY"
+                    },
+                    "department": {
+                        "name": "370725",
+                        "locName": "370725"
+                    },
+                    "project": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "docket": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "team": {
+                        "id": 11050,
+                        "name": "JACOBSON ADAM 034753",
+                        "locName": "JACOBSON ADAM 034753",
+                        "locDesc": "JACOBSON ADAM 034753 TEAM",
+                        "supervisor": null,
+                        "supervisors": null
+                    },
+                    "workType": "D"
+                }, {
+                    "id": 3555524,
+                    "workSummaryId": 285217944,
+                    "startTime": "2020-03-04T23:00",
+                    "endTime": "2020-03-05T09:00",
+                    "minutes": 600,
+                    "rate": 16.98,
+                    "timecode": {
+                        "name": "WRK",
+                        "locName": "WRK"
+                    },
+                    "hourType": {
+                        "name": "REG",
+                        "locName": "REG"
+                    },
+                    "job": {
+                        "name": "370725",
+                        "locName": "370725",
+                        "locDesc": "HUDSON UNIVERSITY"
+                    },
+                    "department": {
+                        "name": "370725",
+                        "locName": "370725"
+                    },
+                    "project": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "docket": {
+                        "name": "0",
+                        "locName": "0"
+                    },
+                    "team": {
+                        "id": 11050,
+                        "name": "JACOBSON ADAM 034753",
+                        "locName": "JACOBSON ADAM 034753",
+                        "locDesc": "JACOBSON ADAM 034753 TEAM",
+                        "supervisor": null,
+                        "supervisors": null
+                    },
+                    "workType": "D"
+                }
+            ],
+            "exceptions": null,
+            "wrksMessages": null,
+            "readOnly": false,
+            "readOnlyReason": "",
+            "daily": true
+        }, {
+            "id": 285641589,
+            "empId": 14743,
+            "workDate": "2020-03-05T00:00",
+            "wrkMins": 0,
+            "authorized": true,
+            "overtime": null,
+            "absent": null,
+            "absentTimeCode": null,
+            "authorizedMessage": "Authorized by ADAM JACOBSON on 03/09/2020 10:55.",
+            "comments": null,
+            "clocks": null,
+            "workDetails": [],
+            "exceptions": null,
+            "wrksMessages": null,
+            "readOnly": false,
+            "readOnlyReason": "",
+            "daily": true
+        }, {
+            "id": 286093614,
+            "empId": 14743,
+            "workDate": "2020-03-06T00:00",
+            "wrkMins": 0,
+            "authorized": true,
+            "overtime": null,
+            "absent": null,
+            "absentTimeCode": null,
+            "authorizedMessage": "Authorized by ADAM JACOBSON on 03/09/2020 10:55.",
+            "comments": null,
+            "clocks": null,
+            "workDetails": [],
+            "exceptions": null,
+            "wrksMessages": null,
+            "readOnly": false,
+            "readOnlyReason": "",
+            "daily": true
+        }, {
+            "id": 286518653,
+            "empId": 14743,
+            "workDate": "2020-03-07T00:00",
+            "wrkMins": 0,
+            "authorized": true,
+            "overtime": null,
+            "absent": null,
+            "absentTimeCode": null,
+            "authorizedMessage": "Authorized by ADAM JACOBSON on 03/09/2020 10:55.",
+            "comments": null,
+            "clocks": null,
+            "workDetails": [],
+            "exceptions": null,
+            "wrksMessages": null,
+            "readOnly": false,
+            "readOnlyReason": "",
+            "daily": true
+        }
+    ]
+}
