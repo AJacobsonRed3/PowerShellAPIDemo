@@ -1,5 +1,5 @@
 {
-    "@odata.context": "https://api.businesscentral.dynamics.com/v2.0/d4211f02-6257-4c99-9875-0fba976cc613/Production/ODataV4/$metadata#Company('CRONUS%20USA%2C%20Inc.')/Chart_of_Accounts",
+    "@odata.context": "https://api.businesscentral.dynamics.com/v2.0/YourEnvironment/Production/ODataV4/$metadata#Company('CRONUS%20USA%2C%20Inc.')/Chart_of_Accounts",
     "value": [{
             "@odata.etag": "W/\"JzQ0O2hONmR4UkNFRUsrYmhaanJpcS91OXhNVmZaeG12TUU4WVZSeHJNRnc4TVk9MTswMDsn\"",
             "No": "10000",
